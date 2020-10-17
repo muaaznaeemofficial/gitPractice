@@ -9,6 +9,8 @@
             //comment 2 from github
             //again
             //a change from vs 
+
+            //class feature 1
         }
     }
 }
