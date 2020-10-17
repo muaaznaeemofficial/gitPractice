@@ -4,6 +4,7 @@
     {
         //comment from vs
         //comment from vs2
+        //comment from gitt
 
         int add(int a, int b)
         {
