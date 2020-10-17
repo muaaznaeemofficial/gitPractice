@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace consoleGit
+﻿namespace consoleGit
 {
     class feature1
     {
+        int add()
+        {
+            return 1;
+        }
     }
 }
