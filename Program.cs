@@ -14,9 +14,7 @@
 
             //feature 3 added
             //feature 2 added
-            //feature 2
-
-            //comment added for a try purpose
+            //         feature 2
 
         }
     }
